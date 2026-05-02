@@ -1,0 +1,6 @@
+name: astrbot_plugin_GetMilthmScore
+display_name: Milthm 成绩查询
+desc: 集成 Milthm 平台的成绩查询插件
+version: v1.0.0
+author: BakaCookie520
+repo: https://github.com/BakaCookie520/astrbot_plugin_GetMilthmScore
